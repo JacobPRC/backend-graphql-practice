@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "age": 1000,
+      "firstName": "Yo mama",
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "age": 24,
+      "firstName": "Tara",
+      "companyId": "2"
+    },
+    {
+      "firstName": "John",
+      "age": 20,
+      "id": "7qYkg3y"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Pornhub",
+      "description": "Happy endings"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Another way to find porn"
+    }
+  ]
+}
